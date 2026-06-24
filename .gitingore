@@ -1,3 +1,4 @@
 .gitignore
+./git
 .vscode
 00_SPHERE_Project.code-workspace
